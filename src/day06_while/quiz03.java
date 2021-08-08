@@ -9,7 +9,7 @@ public class quiz03 {
 					sum+=i;
 				}
 			
-			//System.out.println(i+":" +sum); //여기선 199일때 10000
+			//System.out.println(i+":" +sum); ->여기선 199일때 10000
 		}
 			i--; //이렇게 풀려면 i++때문에 i--를 해줘야함
 			System.out.println(i+":" +sum); //여기선 200일때 10000

@@ -11,7 +11,7 @@ public class quiz01 {
 		while(true) {
 			System.out.println("1~100사이의 숫자만 입력 : ");
 			i = input.nextInt();
-			if(i<=10 && i<=20) {
+			if(i>=10 && i<=20) {
 				break;
 			}
 		
